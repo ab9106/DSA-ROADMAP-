@@ -208,7 +208,7 @@ By following this roadmap, you’ll gain a strong foundation in DSA and be prepa
 
 Love Babbar’s DSA sheet is a great resource for practicing and mastering DSA topics. Here’s a link to the sheet:
 
-- [Love Babbar DSA Sheet](https://takeuforward.org/courses/strivers-sde-sheet-top-50-coding-questions/)
+- [Love Babbar DSA Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1)
 
 This sheet includes 50 top coding questions that are crucial for cracking coding interviews. It's recommended to solve them after completing the roadmap.
 
