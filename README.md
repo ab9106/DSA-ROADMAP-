@@ -210,7 +210,7 @@ Love Babbar’s DSA sheet is a great resource for practicing and mastering DSA t
 
 - [Love Babbar DSA Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1)
 
-This sheet includes 50 top coding questions that are crucial for cracking coding interviews. It's recommended to solve them after completing the roadmap.
+This sheet includes 450 top coding questions that are crucial for cracking coding interviews. It's recommended to solve them after completing the roadmap.
 
 ---
 
